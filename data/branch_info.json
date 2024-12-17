@@ -1,0 +1,157 @@
+{
+    "allama iqbal town": {
+        "city": "Lahore",
+        "latitude": 31.5497,
+        "longitude": 74.3436
+    },
+    "bahria town sector c": {
+        "city": "Lahore",
+        "latitude": 31.5204,
+        "longitude": 74.3587
+    },
+    "dha phase 5": {
+        "city": "Lahore",
+        "latitude": 31.5139,
+        "longitude": 74.3805
+    },
+    "dha phase 6": {
+        "city": "Lahore",
+        "latitude": 31.5254,
+        "longitude": 74.3772
+    },
+    "dha y block": {
+        "city": "Lahore",
+        "latitude": 31.4893,
+        "longitude": 74.3735
+    },
+    "girja chowk": {
+        "city": "Lahore",
+        "latitude": 31.5527,
+        "longitude": 74.3183
+    },
+    "gulberg 4": {
+        "city": "Lahore",
+        "latitude": 31.5533,
+        "longitude": 74.3512
+    },
+    "johar town g1": {
+        "city": "Lahore",
+        "latitude": 31.4926,
+        "longitude": 74.3096
+    },
+    "johar town r1": {
+        "city": "Lahore",
+        "latitude": 31.4914,
+        "longitude": 74.3117
+    },
+    "lake city": {
+        "city": "Lahore",
+        "latitude": 31.3865,
+        "longitude": 74.1778
+    },
+    "mm alam road": {
+        "city": "Lahore",
+        "latitude": 31.5266,
+        "longitude": 74.3567
+    },
+    "model town": {
+        "city": "Lahore",
+        "latitude": 31.526,
+        "longitude": 74.3297
+    },
+    "wapda town": {
+        "city": "Lahore",
+        "latitude": 31.5374,
+        "longitude": 74.322
+    },
+    "civil lines": {
+        "city": "Lahore",
+        "latitude": 31.5542,
+        "longitude": 74.3285
+    },
+    "kohinoor": {
+        "city": "Lahore",
+        "latitude": 31.5051,
+        "longitude": 74.3213
+    },
+    "prisma mall": {
+        "city": "Lahore",
+        "latitude": 31.4693,
+        "longitude": 74.2365
+    },
+    "mall of gujranwala": {
+        "city": "Gujranwala",
+        "latitude": 32.1594,
+        "longitude": 74.1852
+    },
+    "bahira town phase 4": {
+        "city": "Lahore",
+        "latitude": 31.4805,
+        "longitude": 74.3382
+    },
+    "bahira town phase 7": {
+        "city": "Lahore",
+        "latitude": 31.4772,
+        "longitude": 74.3539
+    },
+    "beverly center": {
+        "city": "Lahore",
+        "latitude": 31.5131,
+        "longitude": 74.3752
+    },
+    "dha phase 2": {
+        "city": "Lahore",
+        "latitude": 31.4873,
+        "longitude": 74.3469
+    },
+    "f10 markaz": {
+        "city": "Islamabad",
+        "latitude": 33.6844,
+        "longitude": 73.0565
+    },
+    "i8 markaz": {
+        "city": "Islamabad",
+        "latitude": 33.6825,
+        "longitude": 73.0614
+    },
+    "d12 markaz": {
+        "city": "Islamabad",
+        "latitude": 33.6994,
+        "longitude": 73.063
+    },
+    "burjman center": {
+        "city": "Dubai",
+        "latitude": 25.276987,
+        "longitude": 55.296249
+    },
+    "hayatabad": {
+        "city": "Peshawar",
+        "latitude": 34.0224,
+        "longitude": 71.536
+    },
+    "commercial market": {
+        "city": "Lahore",
+        "latitude": 31.5496,
+        "longitude": 74.3376
+    },
+    "v mall": {
+        "city": "Lahore",
+        "latitude": 31.5077,
+        "longitude": 74.3526
+    },
+    "peshawar cantt": {
+        "city": "Peshawar",
+        "latitude": 34.0147,
+        "longitude": 71.578
+    },
+    "canal road": {
+        "city": "Lahore",
+        "latitude": 31.5462,
+        "longitude": 74.3223
+    },
+    "victoria saddar": {
+        "city": "Karachi",
+        "latitude": 24.8551,
+        "longitude": 67.015
+    }
+}

@@ -1,0 +1,14 @@
+[Unit]
+Description=Streamlit Application Service
+After=network.target
+
+[Service]
+User=dse
+Group=dse
+WorkingDirectory=/home/dse/chatbot_forecasting_layers
+Environment="PATH=/home/erp/miniforge3/envs/chatbot/bin"
+ExecStart=/bin/bash /home/dse/run_pipeline.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
